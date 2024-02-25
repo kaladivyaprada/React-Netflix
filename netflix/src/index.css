@@ -1,0 +1,106 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background: url("https://thefatork.store/cdn/shop/articles/netflix.jpg?v=1669877376");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+h1{
+  font-family:gabriola;
+  font-size: 80px;
+  color:rgb(255, 0, 0);
+  margin-top:-28px;
+   
+}
+.flix{
+    text-align: center;
+    border: 1px solid rgb(136, 129, 129);
+    border-radius: 20px;
+    margin: 0 545px;
+    background-color:rgba(255,255,255,-1);
+    backdrop-filter:blur(10px);
+    
+
+   
+    
+}
+h2{
+  color: white;
+  font-size: 30px;
+  font-family: verdana;
+  margin-top: 60px;
+  margin-left: -200px;
+  font-weight: lighter;
+  margin-bottom: 30px;
+}
+input[type=text],input[type=password]{
+     size:50px;
+     height: 45px;
+     width:300px;
+     border-radius: 5px;
+     font-size: 18px;
+     padding-left: 20px;
+     background-color: rgba(75, 71, 71, 0.819);
+     
+}
+input[type=password]{
+     margin-top: 7px;
+}
+input[type=button]{
+  size:50px;
+  height: 50px;
+  width:325px;
+  font-size: 20px;
+  margin-top: 25px;
+  border-radius: 10px;
+  background-color: rgb(255, 0, 0);
+  color: white;
+
+}
+#box{
+   color: white;
+   font-weight: lighter;
+}
+#box a{
+  margin-left: 120px;
+  color: rgb(231, 231, 237);
+  
+}
+
+#aaa{
+   font-size: 20px;
+   color:white;
+   font-weight: lighter;
+   margin-left: -90px;
+   margin-top: 60px;
+   margin-bottom: 40px;
+}
+#aaa a{
+  font-size: 20px;
+  color:rgb(33, 19, 236);
+  font-weight: bold;
+}
+u{
+  color: rgb(33, 19, 236);
+}
+
+.con{
+  margin-bottom: 20px;
+  color: white;
+  font-weight: lighter;
+  margin-top:20px;
+}
+.con a{
+   color:blue;
+   font-weight: bold;
+}
